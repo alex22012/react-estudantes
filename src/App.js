@@ -1,6 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
-import Roteador from './router';
+
+import Roteador from './router/router';
 
 function App() {
   return (

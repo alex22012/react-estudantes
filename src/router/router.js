@@ -1,8 +1,8 @@
 import React from "react"
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
-import Home from "./routes/Home"
-import NewStudent from "./routes/NewStudent"
-import EditStudent from "./routes/EditStudent"
+import Home from "../routes/Home"
+import NewStudent from "../routes/NewStudent"
+import EditStudent from "../routes/EditStudent"
 
 const Roteador = () => {
     return (
